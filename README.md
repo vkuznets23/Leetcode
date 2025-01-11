@@ -6,4 +6,4 @@
 | 2    | 2620. Counter                                       | [Solution](./day2.js)                    
 | 3    | 2704. To Be Or Not To Be                            | [Solution](./day3.js)                  
 | 4    | 2665. Counter II                                    | [Solution](./day4.js)                         
-| 5    | 2635. Apply Transform Over Each Element in Array [link](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)    | [Solution](./day5.js) 
+| 5    | [2635.] Apply Transform Over Each Element in Array (https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/)    | [Solution](./day5.js) 
