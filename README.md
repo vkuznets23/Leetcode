@@ -8,3 +8,4 @@
 | 4    | 2665.    Counter II                                 | [Solution](./day4.js)                         
 | 5    | 2635.    Apply Transform Over Each Element in Array | [Solution](./day5.js) 
 | 6    | [26.](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) Remove Duplicates from Sorted Array   | [Solution](./day6.js)
+| 7    | [26.23] (https://leetcode.com/problems/memoize/description/?envType=study-plan-v2&envId=30-days-of-javascript)   | [Solutions](./day7.js) 
