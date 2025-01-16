@@ -8,4 +8,5 @@
 | 4    | 2665.    Counter II                                 | [Solution](./day4.js)                         
 | 5    | 2635.    Apply Transform Over Each Element in Array | [Solution](./day5.js) 
 | 6    | [26.](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) Remove Duplicates from Sorted Array   | [Solution](./day6.js)
-| 7    | [2623.](https://leetcode.com/problems/memoize/description/?envType=study-plan-v2&envId=30-days-of-javascript) Memoize  | [Solutions](./day7.js) 
+| 7    | [2623.](https://leetcode.com/problems/memoize/description/?envType=study-plan-v2&envId=30-days-of-javascript) Memoize  | [Solutions](./day7.0.js) 
+| 8    | [2634.](https://leetcode.com/problems/filter-elements-from-array/description/?envType=study-plan-v2&envId=30-days-of-javascript) Filter elements from array | [Solution](./day7.1)
