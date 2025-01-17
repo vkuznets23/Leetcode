@@ -10,3 +10,4 @@
 | 6    | [26.](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) Remove Duplicates from Sorted Array   | [Solution](./day6.js)
 | 7    | [2623.](https://leetcode.com/problems/memoize/description/?envType=study-plan-v2&envId=30-days-of-javascript) Memoize  | [Solutions](./day7.0.js) 
 | 8    | [2634.](https://leetcode.com/problems/filter-elements-from-array/description/?envType=study-plan-v2&envId=30-days-of-javascript) Filter elements from array | [Solution](./day7.1)
+|9     | [2626.](https://leetcode.com/problems/array-reduce-transformation/description/?envType=study-plan-v2&envId=30-days-of-javascript) Array reduce transformation | [Solution](./day8.js)
