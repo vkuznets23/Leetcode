@@ -12,3 +12,4 @@
 | 8    | [2634.](https://leetcode.com/problems/filter-elements-from-array/description/?envType=study-plan-v2&envId=30-days-of-javascript) Filter elements from array | [Solution](./day7.1.js)
 |9     | [2626.](https://leetcode.com/problems/array-reduce-transformation/description/?envType=study-plan-v2&envId=30-days-of-javascript) Array reduce transformation | [Solution](./day8.0.js)
 |10    | [2629.](https://leetcode.com/problems/function-composition/description/?envType=study-plan-v2&envId=30-days-of-javascript) Function Composition | [Solution](./day8.1.js)
+|11    | [2702.](https://leetcode.com/problems/return-length-of-arguments-passed/description/?envType=study-plan-v2&envId=30-days-of-javascript) Return length of arguments passed | [Solution](./day9.js)
