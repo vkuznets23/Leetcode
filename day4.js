@@ -3,27 +3,25 @@
  * @return { increment: Function, decrement: Function, reset: Function }
  */
 var createCounter = function(init) {
-    let currentValue = init; 
+    let currentValue = init;
+    
+    let obj = {
+        increment: function() {
+            currentValue++;
+            return currentValue;
+        },
 
-    let increment = () => {
-        currentValue++;
-        return currentValue;
-    }
-    let decrement = () => {
-        currentValue--;
-        return currentValue;
-    }
-    let reset = () => {
-        currentValue = init;
-        return currentValue;
-    }
+        decrement: function() {
+            currentValue--;
+            return currentValue;
+        },
 
-    let newObject = {
-        increment: increment,
-        decrement: decrement,
-        reset: reset,
+        reset: function() {
+            currentValue = init;
+            return currentValue;
+        }
     }
-    return (newObject)
+    return obj;
 };
 
 // Example 1
