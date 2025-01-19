@@ -14,4 +14,5 @@
 |10    | [2629.](https://leetcode.com/problems/function-composition/description/?envType=study-plan-v2&envId=30-days-of-javascript) Function Composition | [Solution](./FunctionComposition.js)
 |11    | [2702.](https://leetcode.com/problems/return-length-of-arguments-passed/description/?envType=study-plan-v2&envId=30-days-of-javascript) Return length of arguments passed | [Solution](./ReturnLengthOfArgumentsPassed.js)
 |12    | [2666.](https://leetcode.com/problems/allow-one-function-call/description/?envType=study-plan-v2&envId=30-days-of-javascript) Allow One Function Call  | [Solution](./AllowOneFunctionCall.js) |
-|13    | [2723.](https://leetcode.com/problems/add-two-promises/description/?envType=study-plan-v2&envId=30-days-of-javascript) Add Two Promises | [Solution](./AddTwoPromises.js)
+|13    | [2723.](https://leetcode.com/problems/add-two-promises/description/?envType=study-plan-v2&envId=30-days-of-javascript) Add Two Promises | [Solution](./AddTwoPromises.js) |
+|14    | [2621](https://leetcode.com/problems/sleep/submissions/1513456610/?envType=study-plan-v2&envId=30-days-of-javascript) Sleep | [Solution](./Sleep.js)
