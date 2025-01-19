@@ -1,12 +1,14 @@
+/**
+ * @param {number[]} arr
+ * @param {Function} fn
+ * @return {number[]}
+ */
+
 var map = function(arr, fn) {
-    // Step 1: Create a new empty array
-    const result = [];
-
-    // Step 2: Loop through the input array
-    for (let i = 0; i < arr.length; i++) {
-        // Step 3: Apply the transformation function and push the result
-        result.push(fn(arr[i], i));
+    const returnedArray = [];
+    for (let i = 0; i < arr.length; i++){
+        returnedArray.push(fn(arr[i], i));
     }
-
-    return result;
+    return returnedArray;
+    //return arr.map((num, index) => fn(num, index));
 };
