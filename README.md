@@ -19,3 +19,4 @@
 |15    | [Task] Simulate a Simple API with Multiple Promises | [Solution](./SimpleAPIMiltiplePromises.js) |
 |16    | [15.](https://leetcode.com/problems/3sum/) 3Sum | [Solution](./3Sum.js) |
 |17 | [17.](https://leetcode.com/problems/remove-element/description/) Remove Element | [Solution](./RemoveElement.js)
+|18 | [1.](https://leetcode.com/problems/two-sum/description/) Two Sum | [Solution](./TwoSum.js)
