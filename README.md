@@ -15,5 +15,6 @@
 |11    | [2702.](https://leetcode.com/problems/return-length-of-arguments-passed/description/?envType=study-plan-v2&envId=30-days-of-javascript) Return length of arguments passed | [Solution](./ReturnLengthOfArgumentsPassed.js)
 |12    | [2666.](https://leetcode.com/problems/allow-one-function-call/description/?envType=study-plan-v2&envId=30-days-of-javascript) Allow One Function Call  | [Solution](./AllowOneFunctionCall.js) |
 |13    | [2723.](https://leetcode.com/problems/add-two-promises/description/?envType=study-plan-v2&envId=30-days-of-javascript) Add Two Promises | [Solution](./AddTwoPromises.js) |
-|14    | [2621](https://leetcode.com/problems/sleep/submissions/1513456610/?envType=study-plan-v2&envId=30-days-of-javascript) Sleep | [Solution](./Sleep.js) |
-|15    | [Task] Simulate a Simple API with Multiple Promises | [Solution](./SimpleAPIMiltiplePromises.js)
+|14    | [2621.](https://leetcode.com/problems/sleep/submissions/1513456610/?envType=study-plan-v2&envId=30-days-of-javascript) Sleep | [Solution](./Sleep.js) |
+|15    | [Task] Simulate a Simple API with Multiple Promises | [Solution](./SimpleAPIMiltiplePromises.js) |
+|16    | [15.](https://leetcode.com/problems/3sum/) 3Sum | [Solution](./3Sum.js)
