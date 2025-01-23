@@ -4,6 +4,7 @@
 | No.  | TS Problem                                             | Solution                  
 |------|-----------------------------------------------------|--------------------------|
 |1 |[88.](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) Merge Sorted array | [Solution](./MergeSortedArray.ts)
+|2 |[26.](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) Remove Duplicates from Sorted Array   | [Solution](./RemoveDuplicates.ts)
 
 ## JS Problems
 | No.  | Problem                                             | Solution                                  
