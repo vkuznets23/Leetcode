@@ -1,6 +1,6 @@
 # LeetCode
 
-| No.  | Problem                                             | Solution                  
+| No.  | JS Problem                                             | Solution                  
 |------|-----------------------------------------------------|--------------------------|
 | 1    | 2667.    Create Hello World Function                | [Solution](./CreateHelloWorldFunction.js)                  
 | 2    | 2620.    Counter                                    | [Solution](./Counter.js)                    
@@ -20,5 +20,8 @@
 |16    | [15.](https://leetcode.com/problems/3sum/) 3Sum | [Solution](./3Sum.js) |
 |17 | [17.](https://leetcode.com/problems/remove-element/description/) Remove Element | [Solution](./RemoveElement.js)
 |18 | [1.](https://leetcode.com/problems/two-sum/description/) Two Sum | [Solution](./TwoSum.js)
-|19 | [3.](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) Longest Substring Without Repeating Characters | [Solution](./longestSubstring)
-|20 |[88.](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) Merge Sorted array | [Solution](./MergeSortedArray.ts)
+|19 | [3.](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) Longest Substring Without Repeating Characters | [Solution](./longestSubstring.js)
+
+| No.  | TS Problem                                             | Solution                  
+|------|-----------------------------------------------------|--------------------------|
+|1 |[88.](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) Merge Sorted array | [Solution](./MergeSortedArray.ts)
