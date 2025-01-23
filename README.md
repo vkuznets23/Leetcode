@@ -1,8 +1,8 @@
 # LeetCode
 
-| No.  | JS Problem                                             | Solution                  
-|------|-----------------------------------------------------|--------------------------|
-| 1    | 2667.    Create Hello World Function                | [Solution](./CreateHelloWorldFunction.js)                  
+| No.  | JS Problem                                           | Solution                | No.  | TS Problem                                           | Solution                  
+|------|-----------------------------------------------------|--------------------------|------|-----------------------------------------------------|--------------------------|
+| 1    | 2667.    Create Hello World Function                | [Solution](./CreateHelloWorldFunction.js)  | 1  |[88.](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) Merge Sorted array | [Solution](./MergeSortedArray.ts)               
 | 2    | 2620.    Counter                                    | [Solution](./Counter.js)                    
 | 3    | 2704.    To Be Or Not To Be                         | [Solution](./ToBeOrNotToBe.js)                  
 | 4    | 2665.    Counter II                                 | [Solution](./Counter2.js)                         
