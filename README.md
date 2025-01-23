@@ -1,4 +1,4 @@
-# LeetCode - 30 Days JavaScript Challenge
+# LeetCode
 
 | No.  | Problem                                             | Solution                  
 |------|-----------------------------------------------------|--------------------------|
@@ -21,3 +21,4 @@
 |17 | [17.](https://leetcode.com/problems/remove-element/description/) Remove Element | [Solution](./RemoveElement.js)
 |18 | [1.](https://leetcode.com/problems/two-sum/description/) Two Sum | [Solution](./TwoSum.js)
 |19 | [3.](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) Longest Substring Without Repeating Characters | [Solution](./longestSubstring)
+|20 |[88.](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) Merge Sorted array | [Solution](./MergeSortedArray.ts)
