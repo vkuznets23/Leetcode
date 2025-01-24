@@ -10,11 +10,11 @@
 ## JS Problems
 | No.  | Problem                                             | Solution                                  
 |------|-----------------------------------------------------|--------------------------|
-| 1    | 2667.    Create Hello World Function                | [Solution](./JavaScript/CreateHelloWorldFunction.js)  |              
-| 2    | 2620.    Counter                                    | [Solution](./JavaScript/Counter.js)                    
-| 3    | 2704.    To Be Or Not To Be                         | [Solution](./JavaScript/ToBeOrNotToBe.js)                  
-| 4    | 2665.    Counter II                                 | [Solution](./JavaScript/Counter2.js)                         
-| 5    | 2635.    Apply Transform Over Each Element in Array | [Solution](./JavaScript/ApplyTransformOverEachElementinArray.js) 
+| 1    | [2667.](https://leetcode.com/problems/create-hello-world-function/description/)    Create Hello World Function                | [Solution](./JavaScript/CreateHelloWorldFunction.js)  |              
+| 2    | [2620.](https://leetcode.com/problems/counter/description/)    Counter                                    | [Solution](./JavaScript/Counter.js)                    
+| 3    | [2704.](https://leetcode.com/problems/to-be-or-not-to-be/description/)    To Be Or Not To Be                         | [Solution](./JavaScript/ToBeOrNotToBe.js)                  
+| 4    | [2665.](https://leetcode.com/problems/counter-ii/description/)    Counter II                                 | [Solution](./JavaScript/Counter2.js)                         
+| 5    | [2635.](https://leetcode.com/problems/apply-transform-over-each-element-in-array/description/)    Apply Transform Over Each Element in Array | [Solution](./JavaScript/ApplyTransformOverEachElementinArray.js) 
 | 6    | [26.](https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/) Remove Duplicates from Sorted Array   | [Solution](./JavaScript/RemoveDuplicatesFromSortedArray.js)
 | 7    | [2623.](https://leetcode.com/problems/memoize/description/?envType=study-plan-v2&envId=30-days-of-javascript) Memorize  | [Solution](./JavaScript/Memorize.js) 
 | 8    | [2634.](https://leetcode.com/problems/filter-elements-from-array/description/?envType=study-plan-v2&envId=30-days-of-javascript) Filter elements from array | [Solution](./JavaScript/FilterElementsFromArray.js)
