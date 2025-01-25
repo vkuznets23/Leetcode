@@ -1,25 +1,24 @@
 function removeDuplicates(nums: number[]): number {
     const map = new Map<number, number>();
+    let newArr: number[] = [];
 
-    for (const num of nums) {
+    nums.forEach(num => {
         map.set(num, (map.get(num) || 0) + 1);
-    }
+    })
 
-    for (const [key, value] of map) {
+    map.forEach((value, key) => {
         if (value > 2) {
             map.set(key, 2);
         }
-    }
-    let newArr: number[] = [];
-    for (const [key, value] of map) {
-        for (let i = 0; i < value; i++) {
-            newArr.push(key);
-        }
-    }
+    });
 
-    for (let i = 0; i < nums.length; i++) {
+    map.forEach((value, key) => {
+        newArr.push(...Array(value).fill(key))
+    });
+
+    nums.forEach((_, i) => {
         nums[i] = newArr[i];
-    }
+    });
 
     return newArr.length;
 };
