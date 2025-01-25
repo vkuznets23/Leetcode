@@ -8,6 +8,7 @@
 |3 |[169.](https://leetcode.com/problems/majority-element/description/?envType=study-plan-v2&envId=top-interview-150) Majority Element | [Solution](./TypeScript/MajorityElement.ts)
 |4 |[80.](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150) Remove Duplicates from Sorted Array II | [Solution](./TypeScript/RemoveDuplicats2.ts)
 |5 |[121.](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150)  Best Time to Buy and Sell Stock | [Solution](./TypeScript/MaxProfit.ts)
+|6 |[13.](https://leetcode.com/problems/roman-to-integer/description/?envType=study-plan-v2&envId=top-interview-150) Roman to Integer| [Solution](./TypeScript/RomanToInteger.ts)
 
 ## JS Problems
 | No.  | Problem                                             | Solution                                  
