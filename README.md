@@ -9,6 +9,7 @@
 |4 |[80.](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/?envType=study-plan-v2&envId=top-interview-150) Remove Duplicates from Sorted Array II | [Solution](./TypeScript/RemoveDuplicats2.ts)
 |5 |[121.](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150)  Best Time to Buy and Sell Stock | [Solution](./TypeScript/MaxProfit.ts)
 |6 |[13.](https://leetcode.com/problems/roman-to-integer/description/?envType=study-plan-v2&envId=top-interview-150) Roman to Integer| [Solution](./TypeScript/RomanToInteger.ts)
+|7 | [189.](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150) Rotate Array | [Solution](./TypeScript/RotateArray.ts)
 
 ## JS Problems
 | No.  | Problem                                             | Solution                                  
