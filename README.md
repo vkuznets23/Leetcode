@@ -11,6 +11,7 @@
 |6 |[13.](https://leetcode.com/problems/roman-to-integer/description/?envType=study-plan-v2&envId=top-interview-150) Roman to Integer| [Solution](./TypeScript/RomanToInteger.ts)
 |7 | [189.](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150) Rotate Array | [Solution](./TypeScript/RotateArray.ts)
 |8 |[55.](https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150) Jump Game | [Solution](./TypeScript/JumpGame.ts)
+|9 |[28.](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150) Find the Index of the First Occurrence in a String | [Solution](./TypeScript/IndexOfSubstr.ts)
 
 ## JS Problems
 | No.  | Problem                                             | Solution                                  
