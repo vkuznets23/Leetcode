@@ -10,6 +10,7 @@
 |5 |[121.](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/?envType=study-plan-v2&envId=top-interview-150)  Best Time to Buy and Sell Stock | [Solution](./TypeScript/MaxProfit.ts)
 |6 |[13.](https://leetcode.com/problems/roman-to-integer/description/?envType=study-plan-v2&envId=top-interview-150) Roman to Integer| [Solution](./TypeScript/RomanToInteger.ts)
 |7 | [189.](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150) Rotate Array | [Solution](./TypeScript/RotateArray.ts)
+|8 |[55.](https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150) Jump Game | [Solution](./TypeScript/JumpGame.ts)
 
 ## JS Problems
 | No.  | Problem                                             | Solution                                  
