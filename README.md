@@ -12,6 +12,7 @@
 |7 | [189.](https://leetcode.com/problems/rotate-array/description/?envType=study-plan-v2&envId=top-interview-150) Rotate Array | [Solution](./TypeScript/RotateArray.ts)
 |8 |[55.](https://leetcode.com/problems/jump-game/description/?envType=study-plan-v2&envId=top-interview-150) Jump Game | [Solution](./TypeScript/JumpGame.ts)
 |9 |[28.](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150) Find the Index of the First Occurrence in a String | [Solution](./TypeScript/IndexOfSubstr.ts)
+|10| [58.](https://leetcode.com/problems/length-of-last-word/description/?envType=study-plan-v2&envId=top-interview-150) Length of last word | [Solution](./TypeScript/LengthOfLastWord.ts)
 
 ## JS Problems
 | No.  | Problem                                             | Solution                                  
