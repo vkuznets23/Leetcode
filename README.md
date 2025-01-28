@@ -14,6 +14,7 @@
 |9 |[28.](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150) Find the Index of the First Occurrence in a String | [Solution](./TypeScript/IndexOfSubstr.ts)
 |10| [58.](https://leetcode.com/problems/length-of-last-word/description/?envType=study-plan-v2&envId=top-interview-150) Length of last word | [Solution](./TypeScript/LengthOfLastWord.ts)
 |11| [14.](https://leetcode.com/problems/longest-common-prefix/description/?envType=study-plan-v2&envId=top-interview-150) Longest Common Prefix | [Solution](./TypeScript/LongestCommonPrefix.ts)
+|12| [125.](https://leetcode.com/problems/valid-palindrome/description/?envType=study-plan-v2&envId=top-interview-150) Valid Polindrome | [Solution](./TypeScript/ValidPolindrome.ts)
 
 ## JS Problems
 | No.  | Problem                                             | Solution                                  
