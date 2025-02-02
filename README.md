@@ -17,6 +17,7 @@
 |12| [125.](https://leetcode.com/problems/valid-palindrome/description/?envType=study-plan-v2&envId=top-interview-150) Valid Polindrome | [Solution](./TypeScript/ValidPalindrome.ts)
 |13|[151.](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150) Reverse Words In String | [Solution](./TypeScript/ReverseWordsInStr.ts)
 |14|[202.](https://leetcode.com/problems/happy-number/?envType=study-plan-v2&envId=top-interview-150) Happy Number | [Solution](./TypeScript/HappyNumber.ts)
+|15| [242.](https://leetcode.com/problems/valid-anagram/description/?envType=study-plan-v2&envId=top-interview-150) Valid Anagram | [Solution](./TypeScripts/IsAnagram.ts)
 
 ## JS Problems
 | No.  | Problem                                             | Solution                                  
@@ -35,8 +36,7 @@
 |12    | [2666.](https://leetcode.com/problems/allow-one-function-call/description/?envType=study-plan-v2&envId=30-days-of-javascript) Allow One Function Call  | [Solution](./JavaScript/AllowOneFunctionCall.js) |
 |13    | [2723.](https://leetcode.com/problems/add-two-promises/description/?envType=study-plan-v2&envId=30-days-of-javascript) Add Two Promises | [Solution](./JavaScript/AddTwoPromises.js) |
 |14    | [2621.](https://leetcode.com/problems/sleep/submissions/1513456610/?envType=study-plan-v2&envId=30-days-of-javascript) Sleep | [Solution](./JavaScript/Sleep.js) |
-|15    | [Task] Simulate a Simple API with Multiple Promises | [Solution](./JavaScript/SimpleAPIMiltiplePromises.js) |
-|16    | [15.](https://leetcode.com/problems/3sum/) 3Sum | [Solution](./JavaScript/3Sum.js) |
-|17 | [17.](https://leetcode.com/problems/remove-element/description/) Remove Element | [Solution](./JavaScript/RemoveElement.js)
-|18 | [1.](https://leetcode.com/problems/two-sum/description/) Two Sum | [Solution](./JavaScript/TwoSum.js)
-|19 | [3.](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) Longest Substring Without Repeating Characters | [Solution](./JavaScript/longestSubstring.js)
+|15    | [15.](https://leetcode.com/problems/3sum/) 3Sum | [Solution](./JavaScript/3Sum.js) |
+|16 | [17.](https://leetcode.com/problems/remove-element/description/) Remove Element | [Solution](./JavaScript/RemoveElement.js)
+|17 | [1.](https://leetcode.com/problems/two-sum/description/) Two Sum | [Solution](./JavaScript/TwoSum.js)
+|18 | [3.](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) Longest Substring Without Repeating Characters | [Solution](./JavaScript/longestSubstring.js)
