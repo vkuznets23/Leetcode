@@ -16,6 +16,7 @@
 |11| [14.](https://leetcode.com/problems/longest-common-prefix/description/?envType=study-plan-v2&envId=top-interview-150) Longest Common Prefix | [Solution](./TypeScript/LongestCommonPrefix.ts)
 |12| [125.](https://leetcode.com/problems/valid-palindrome/description/?envType=study-plan-v2&envId=top-interview-150) Valid Polindrome | [Solution](./TypeScript/ValidPalindrome.ts)
 |13|[151.](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150) Reverse Words In String | [Solution](./TypeScript/ReverseWordsInStr.ts)
+|14|[202.](https://leetcode.com/problems/happy-number/?envType=study-plan-v2&envId=top-interview-150) Happy Number | [Solution](./TypeScript/HappyNumber.ts)
 
 ## JS Problems
 | No.  | Problem                                             | Solution                                  
