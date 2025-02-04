@@ -19,6 +19,13 @@
 |14|[202.](https://leetcode.com/problems/happy-number/?envType=study-plan-v2&envId=top-interview-150) Happy Number | [Solution](./TypeScript/HappyNumber.ts)
 |15| [242.](https://leetcode.com/problems/valid-anagram/description/?envType=study-plan-v2&envId=top-interview-150) Valid Anagram | [Solution](./TypeScript/IsAnagram.ts)
 |16| [2723.](https://leetcode.com/problems/add-two-promises/?envType=study-plan-v2&envId=30-days-of-javascript) Add 2 Promises | [Solution](./TypeScript/Add2Promises.ts)
+|17| [2727.](https://leetcode.com/problems/is-object-empty/description/?envType=study-plan-v2&envId=30-days-of-javascript) Is Object Empty | [Solution](./TypeScript/IsObjectEmpty.ts)
+|18|[2637.](https://leetcode.com/problems/promise-time-limit/?envType=study-plan-v2&envId=30-days-of-javascript) Promise Time limit | [Solution](./TypeScript/)
+|19|[2725.](https://leetcode.com/problems/interval-cancellation/?envType=study-plan-v2&envId=30-days-of-javascript) Interval Cancellation | [Solution](./TypeScript/)
+|20|[2715.](https://leetcode.com/problems/timeout-cancellation/?envType=study-plan-v2&envId=30-days-of-javascript) Timeout Cancellation | [Solution](./TypeScript/)
+|21|[2621.](https://leetcode.com/problems/sleep/?envType=study-plan-v2&envId=30-days-of-javascript) Sleep | [Solution](./TypeScript/Sleep)
+|22|
+
 
 ## JS Problems
 | No.  | Problem                                             | Solution                                  
