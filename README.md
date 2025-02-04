@@ -17,7 +17,8 @@
 |12| [125.](https://leetcode.com/problems/valid-palindrome/description/?envType=study-plan-v2&envId=top-interview-150) Valid Polindrome | [Solution](./TypeScript/ValidPalindrome.ts)
 |13|[151.](https://leetcode.com/problems/reverse-words-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150) Reverse Words In String | [Solution](./TypeScript/ReverseWordsInStr.ts)
 |14|[202.](https://leetcode.com/problems/happy-number/?envType=study-plan-v2&envId=top-interview-150) Happy Number | [Solution](./TypeScript/HappyNumber.ts)
-|15| [242.](https://leetcode.com/problems/valid-anagram/description/?envType=study-plan-v2&envId=top-interview-150) Valid Anagram | [Solution](./TypeScripts/IsAnagram.ts)
+|15| [242.](https://leetcode.com/problems/valid-anagram/description/?envType=study-plan-v2&envId=top-interview-150) Valid Anagram | [Solution](./TypeScript/IsAnagram.ts)
+|16| [2723.](https://leetcode.com/problems/add-two-promises/?envType=study-plan-v2&envId=30-days-of-javascript) Add 2 Promises | [Solution](./TypeScript/Add2Promises.ts)
 
 ## JS Problems
 | No.  | Problem                                             | Solution                                  
