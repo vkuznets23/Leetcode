@@ -23,8 +23,8 @@
 |18|[2637.](https://leetcode.com/problems/promise-time-limit/?envType=study-plan-v2&envId=30-days-of-javascript) Promise Time limit | [Solution](./TypeScript/)
 |19|[2725.](https://leetcode.com/problems/interval-cancellation/?envType=study-plan-v2&envId=30-days-of-javascript) Interval Cancellation | [Solution](./TypeScript/)
 |20|[2715.](https://leetcode.com/problems/timeout-cancellation/?envType=study-plan-v2&envId=30-days-of-javascript) Timeout Cancellation | [Solution](./TypeScript/)
-|21|[2621.](https://leetcode.com/problems/sleep/?envType=study-plan-v2&envId=30-days-of-javascript) Sleep | [Solution](./TypeScript/Sleep)
-|22|
+|21|[2621.](https://leetcode.com/problems/sleep/?envType=study-plan-v2&envId=30-days-of-javascript) Sleep | [Solution](./TypeScript/Sleep.ts)
+|22| [9.](https://leetcode.com/problems/palindrome-number/description/) Polindrome | [Solution](./TypeScript/polindrome.ts)
 
 
 ## JS Problems
